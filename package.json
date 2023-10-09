@@ -1,0 +1,9 @@
+{
+  "name": "teste-java-script-node",
+  "version": "0.0.0",
+  "description": "Teste JavaScript Node",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
